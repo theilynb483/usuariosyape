@@ -206,15 +206,15 @@ hr {
 /*Exclusive Theme Colors Configuration*/
 
 .label-theme {
-	background-color: #68dff0;
+	background-color: #54188d;
 }
 
 .bg-theme {
-	background-color: #68dff0;
+	background-color: #54188d;
 }
 
 ul.top-menu > li > .logout {
-	color: #54188d;
+	color: #541490;
 	font-size: 12px;
 	border-radius: 4px;
 	-webkit-border-radius: 4px;
@@ -1255,7 +1255,7 @@ PANELS CONFIGURATIONS
 
 /*Twitter Panel*/
 .twitter-panel {
-	background: #4fc1e9;
+	background: #54188d;
 	text-align: center;
 }
 .twitter-panel i {
@@ -1998,8 +1998,8 @@ label {
 
 .btn-facebook {
   color: #fff;
-  background-color: #5193ea;
-  border-color: #2775e2;
+  background-color: #aa0f0f;
+  border-color: #aa0f0f;
 }
 .btn-facebook:hover,
 .btn-facebook:focus,
@@ -2007,14 +2007,14 @@ label {
 .btn-facebook.active,
 .open .dropdown-toggle.btn-facebook {
   color: #fff;
-  background-color: #2775e2;
-  border-color: #2775e2;
+  background-color: #aa0f0f;
+  border-color: #aa0f0f;
 }
 
 .btn-twitter {
   color: #fff;
-  background-color: #44ccfe;
-  border-color: #2bb4e8;
+  background-color: #54188d;
+  border-color: #54188d;
 }
 .btn-twitter:hover,
 .btn-twitter:focus,
@@ -2022,8 +2022,8 @@ label {
 .btn-twitter.active,
 .open .dropdown-toggle.btn-twitter {
   color: #fff;
-  background-color: #2bb4e8;
-  border-color: #2bb4e8;
+  background-color: #54188d;
+  border-color: #54188d;
 }
 
 
@@ -2240,5 +2240,3 @@ label {
 .site-min-height {
     min-height: 900px;
 }
-
-
